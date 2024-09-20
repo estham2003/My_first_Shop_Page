@@ -1,4 +1,4 @@
-/* Style général */
+/* Allgemeiner Stil */
 body, html {
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ main::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.4); /* Ombre légère */
+    background-color: rgba(0, 0, 0, 0.4); /* Leichter Schatten  */
     filter: blur(5px); /* Effet de flou */
     z-index: 1;
 }
@@ -50,7 +50,7 @@ main::before {
 .login-container {
     position: relative;
     z-index: 2;
-    background-color: rgba(255, 248, 244, 0.9); /* Légère transparence */
+    background-color: rgba(255, 248, 244, 0.9); /*  Leichte Transparenz */
     padding: 40px;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -97,7 +97,7 @@ button:hover {
     background-color: #A6523F;
 }
 
-/* Style du footer si tu souhaites en ajouter */
+/* Footer-Stil */
 footer {
     background-color: #A6523F;
     color: white;

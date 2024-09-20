@@ -1,4 +1,5 @@
-/* Allgemeiner Stil  */
+
+/* Allgemeiner Stil */
 body, html {
     margin: 0;
     padding: 0;
@@ -97,7 +98,7 @@ button:hover {
     background-color: #A6523F;
 }
 
-/*Footer-Stil*/
+/* Footer-Stil, falls du einen hinzufügen möchtest */
 footer {
     background-color: #A6523F;
     color: white;
